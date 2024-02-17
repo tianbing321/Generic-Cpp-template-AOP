@@ -2,6 +2,7 @@
 
 ==Note==
 Updated the core code to address the commonality of functions... You can use the common invocation method to call both a function with or without a return value. It also supports normal functions and member functions.
+
 更新核心代码，解决了函数的通用性。。。使用通用的调用方式，既可以调用有返回值函数也可以调用无返回值函数。还能支持普通函数和成员函数。
 
 # preface(序言)
